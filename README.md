@@ -1,2 +1,2 @@
-# Sale-Data-Analysis01
-Use Python libraries Pandas and Matplotlib to gain insights form a sales data set
+# Sales Data Analysis:
+Use Python libraries Pandas and Matplotlib to gain useful insights form a given sales data set.
